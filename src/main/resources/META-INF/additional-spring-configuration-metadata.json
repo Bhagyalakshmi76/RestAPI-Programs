@@ -1,0 +1,77 @@
+{"properties": [
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Url'"
+  },
+  {
+    "name": "spring.datasource.Username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Username'"
+  },
+  {
+    "name": "spring.datasource.Username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.Username'"
+  },
+  {
+    "name": "spring.datasource.driverclassname",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.driverclassname'"
+  },
+  {
+    "name": "spring.datasource.driverclassname",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.driverclassname'"
+  },
+  {
+    "name": "spring.datasource.driverclassname",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.driverclassname'"
+  }
+]}
